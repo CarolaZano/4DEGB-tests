@@ -2,4 +2,6 @@ bin/
 include/
 lib/
 share/
-
+..gitignore.swp
+*.pdf
+.ipynb_checkpoints/
