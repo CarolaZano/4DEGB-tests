@@ -5,4 +5,3 @@ share/
 ..gitignore.swp
 *.pdf
 .ipynb_checkpoints/
-*.xlsx
